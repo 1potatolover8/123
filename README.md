@@ -1,5 +1,4 @@
 <html>
-<head><title> Surprise </title></head>
 <body align="center">
 <p> i wanna take a moment to let you know that im proud of you and</p>
 <h1> I LOVE YOU </h1>
